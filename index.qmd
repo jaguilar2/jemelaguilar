@@ -1,0 +1,11 @@
+---
+title: "Jemel P. Aguilar"
+subtitle: "Social Work | Public Health | Social Welfare"
+
+about:
+  image: the-chaffins.jpg
+  template: jolla
+---
+
+
+
